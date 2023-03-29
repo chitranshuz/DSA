@@ -157,3 +157,19 @@ more space to get faster time
 ***And always remember:*** Communicate your thought process as much as possible. Don’t worry about
 finishing it fast. Every part of the interview matters.
 
+
+Data Structure
+---------------
+
+Array | Stack | Queue | Linked list
+
+Tree | Tries | Graphs | Hash Table
+
+Algorithm
+----------
+
+Sorting | Dynamic Programming | BFS + DFS (Search) | Recursion
+
+
+
+
